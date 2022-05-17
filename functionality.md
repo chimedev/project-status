@@ -29,9 +29,6 @@
    * [x]  LTE
  * [ ]  NFC
  * [ ]  Sensors
-   * [X]  MTP/PTP
-   * [X]  USB Tethering
-   * [X]  ADB
  * [x]  USB
    * [X]  MTP/PTP
    * [X]  USB Tethering
@@ -40,6 +37,10 @@
    * [X]  2.4 GHz
    * [X]  5 GHz
    * [X]  Hotspot
+
+## Other bugs
+
+- Device detects touches at FP Sensor as pressing the power button
 
 ## Details
 
