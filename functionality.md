@@ -18,7 +18,6 @@
    * [X]  Video recording
    * [X]  FLashlight
  * [X]  Charge
- * [ ]  Compass
  * [X]  Data encryption
  * [X]  Fingerprint
  * [X]  GPS
@@ -30,13 +29,16 @@
    * [x]  LTE
  * [ ]  NFC
  * [ ]  Sensors
+   * [X]  MTP/PTP
+   * [X]  USB Tethering
+   * [X]  ADB
  * [x]  USB
    * [X]  MTP/PTP
    * [X]  USB Tethering
    * [X]  ADB
 * [X]  Wi-Fi
    * [X]  2.4 GHz
-   * [ ]  5 GHz
+   * [X]  5 GHz
    * [X]  Hotspot
 
 ## Details
