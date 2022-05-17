@@ -21,15 +21,15 @@
  * [ ]  Compass
  * [X]  Data encryption
  * [X]  Fingerprint
- * [ ]  FM Radio
  * [X]  GPS
- * [ ]  IR Blaster
+ * [X]  IR Blaster
  * [X]  Modem
    * [x]  sim1
    * [X]  sim2
    * [X]  HSPA
    * [x]  LTE
  * [ ]  NFC
+ * [ ]  Sensors
  * [x]  USB
    * [X]  MTP/PTP
    * [X]  USB Tethering
