@@ -18,10 +18,11 @@
    * [X]  Video recording
    * [X]  FLashlight
  * [X]  Charge
+ * [ ]  Compass
  * [X]  Data encryption
  * [X]  Fingerprint
  * [ ]  FM Radio
- * [ ]  GPS
+ * [X]  GPS
  * [ ]  IR Blaster
  * [X]  Modem
    * [x]  sim1
