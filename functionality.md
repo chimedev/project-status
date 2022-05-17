@@ -7,20 +7,15 @@
    * [X]  Multi touch
    * [ ]  Auto brightness
  * [ ]  Overall audio
-   * [ ]  Media
-   * [ ]  System sounds
-   * [ ]  Notifications, alarm, and ringtone
-   * [ ]  In-call audio
+   * [X]  Media
+   * [X]  System sounds
+   * [X]  Notifications, alarm, and ringtone
+   * [X]  In-call audio
    * [ ]  bluetooth audio
-     * [ ]  choppy crack fixed
-     * [ ]  FM
-     * [ ]  headset
-     * [ ]  mic
-     * [ ]  speaker
- * [ ]  Bluetooth
+ * [X]  Bluetooth
  * [ ]  Camera
-   * [X]  Taking photos
-   * [ ]  Video recording
+   * [ ]  Taking photos
+   * [X]  Video recording
    * [X]  FLashlight
  * [X]  Charge
  * [X]  Data encryption
@@ -28,7 +23,7 @@
  * [ ]  FM Radio
  * [ ]  GPS
  * [ ]  IR Blaster
- * [ ]  Modem
+ * [X]  Modem
    * [x]  sim1
    * [X]  sim2
    * [X]  HSPA
@@ -38,13 +33,13 @@
    * [X]  MTP/PTP
    * [X]  USB Tethering
    * [X]  ADB
-* [ ]  Wi-Fi
-   * [ ]  2.4 GHz
+* [X]  Wi-Fi
+   * [X]  2.4 GHz
    * [ ]  5 GHz
-   * [ ]  Hotspot
+   * [X]  Hotspot
 
 ## Details
 
-Time tested: April 6, 2022  
+Time tested: May 17, 2022  
 Tree branch: ```lineage-18.1```  
 Used device to test: ```lime```
