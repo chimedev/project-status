@@ -28,7 +28,13 @@
    * [X]  HSPA
    * [x]  LTE
  * [ ]  NFC
- * [ ]  Sensors
+ * [X]  Sensors
+   * [X]  Accelerometer
+   * [X]  Light
+   * [X]  Orientation/Compass
+   * [X]  Depth
+   * [X]  Gyroscope
+   * [X]  Magnet
  * [x]  USB
    * [X]  MTP/PTP
    * [X]  USB Tethering
