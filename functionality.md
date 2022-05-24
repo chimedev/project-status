@@ -1,11 +1,11 @@
 # Chime Unified Tree OSS Functionality Checklist
 
- * [ ]  Overall Displays and Touchscreens
+ * [X]  Overall Displays and Touchscreens
    * [X]  Normal display mode
    * [X]  Normal touch input mode
    * [X]  Double tap to wake
    * [X]  Multi touch
-   * [ ]  Auto brightness
+   * [X]  Auto brightness
  * [ ]  Overall audio
    * [X]  Media
    * [X]  System sounds
@@ -44,9 +44,11 @@
    * [X]  5 GHz
    * [X]  Hotspot
 
-## Other bugs
+## Notes
 
-- Device detects touches at FP Sensor as pressing the power button
+- Cameta works with Open camera and Telegram
+- NFC Stack is not builded yet. Will do after tree stable enough for basic usage
+- Bluetooth Audio should be working. But, i don't have any TWS RN
 
 ## Details
 
