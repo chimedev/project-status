@@ -13,8 +13,8 @@
    * [X]  In-call audio
    * [ ]  bluetooth audio
  * [X]  Bluetooth
- * [ ]  Camera
-   * [ ]  Taking photos
+ * [X]  Camera
+   * [X]  Taking photos
    * [X]  Video recording
    * [X]  FLashlight
  * [X]  Charge
@@ -46,12 +46,11 @@
 
 ## Notes
 
-- Cameta works with Open camera and Telegram
 - NFC Stack is not builded yet. Will do after tree stable enough for basic usage
 - Bluetooth Audio should be working. But, i don't have any TWS RN
 
 ## Details
 
-Time tested: May 17, 2022  
+Time tested: May 27, 2022  
 Tree branch: ```lineage-18.1```  
 Used device to test: ```lime```
