@@ -28,6 +28,7 @@
    * [X]  HSPA
    * [x]  LTE
  * [ ]  NFC
+ * [X]  Enforcing SELinux
  * [X]  Sensors
    * [X]  Accelerometer
    * [X]  Light
@@ -51,6 +52,6 @@
 
 ## Details
 
-Time tested: May 27, 2022  
-Tree branch: ```lineage-18.1```  
+Time tested: May 30, 2022  
+Tree branch: ```lineage-19.1```  
 Used device to test: ```lime```
