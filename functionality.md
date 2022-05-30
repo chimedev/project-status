@@ -1,9 +1,9 @@
 # Chime Unified Tree OSS Functionality Checklist
 
- * [X]  Overall Displays and Touchscreens
+ * [ ]  Overall Displays and Touchscreens
    * [X]  Normal display mode
    * [X]  Normal touch input mode
-   * [X]  Double tap to wake
+   * [ ]  Double tap to wake
    * [X]  Multi touch
    * [X]  Auto brightness
  * [ ]  Overall audio
@@ -19,7 +19,7 @@
    * [X]  FLashlight
  * [X]  Charge
  * [X]  Data encryption
- * [X]  Fingerprint
+ * [ ]  Fingerprint
  * [X]  GPS
  * [X]  IR Blaster
  * [X]  Modem
@@ -34,7 +34,7 @@
    * [X]  Light
    * [X]  Orientation/Compass
    * [X]  Depth
-   * [X]  Gyroscope
+   * [X]  Gyroscope (Soft sensor)
    * [X]  Magnet
  * [x]  USB
    * [X]  MTP/PTP
