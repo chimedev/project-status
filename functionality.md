@@ -19,7 +19,7 @@
    * [X]  FLashlight
  * [X]  Charge
  * [X]  Data encryption
- * [ ]  Fingerprint
+ * [X]  Fingerprint
  * [X]  GPS
  * [X]  IR Blaster
  * [X]  Modem
@@ -52,6 +52,6 @@
 
 ## Details
 
-Time tested: May 30, 2022  
+Time tested: May 31, 2022  
 Tree branch: ```lineage-19.1```  
 Used device to test: ```lime```
