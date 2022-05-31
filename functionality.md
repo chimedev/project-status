@@ -1,17 +1,17 @@
 # Chime Unified Tree OSS Functionality Checklist
 
- * [ ]  Overall Displays and Touchscreens
+## Internal Test
+ * [X]  Overall Displays and Touchscreens
    * [X]  Normal display mode
    * [X]  Normal touch input mode
-   * [ ]  Double tap to wake
+   * [X]  Double tap to wake
    * [X]  Multi touch
    * [X]  Auto brightness
- * [ ]  Overall audio
+ * [X]  Overall audio
    * [X]  Media
    * [X]  System sounds
    * [X]  Notifications, alarm, and ringtone
    * [X]  In-call audio
-   * [ ]  bluetooth audio
  * [X]  Bluetooth
  * [X]  Camera
    * [X]  Taking photos
@@ -45,13 +45,23 @@
    * [X]  5 GHz
    * [X]  Hotspot
 
+## External Test
+ * [ ]  Audio
+   * [ ]  bluetooth audio
+ * [ ]  NFC
+ * [ ]  VoLTE
+ * [ ]  ViLTE
+ * [ ]  VoWifi
+ * [ ]  Wifi Calling
+ * [ ]  Wifi Display
+ 
 ## Notes
 
-- NFC Stack is not builded yet. Will do after tree stable enough for basic usage
-- Bluetooth Audio should be working. But, i don't have any TWS RN
+- As we don't have required hardware and support for every functions on external test, we expected public user could help us to test and give us feedback
 
 ## Details
 
+### Internal Test
 Time tested: May 31, 2022  
 Tree branch: ```lineage-19.1```  
 Used device to test: ```lime```
