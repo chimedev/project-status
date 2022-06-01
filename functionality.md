@@ -46,8 +46,8 @@
    * [X]  Hotspot
 
 ## External Test
- * [ ]  Audio
-   * [ ]  bluetooth audio
+ * [X]  Audio
+   * [X]  bluetooth audio
  * [ ]  NFC
  * [ ]  VoLTE
  * [ ]  ViLTE
