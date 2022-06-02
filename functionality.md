@@ -27,7 +27,6 @@
    * [X]  sim2
    * [X]  HSPA
    * [x]  LTE
- * [ ]  NFC
  * [X]  Enforcing SELinux
  * [X]  Sensors
    * [X]  Accelerometer
@@ -48,7 +47,7 @@
 ## External Test
  * [X]  Audio
    * [X]  bluetooth audio
- * [ ]  NFC
+ * [X]  NFC
  * [ ]  VoLTE
  * [ ]  ViLTE
  * [ ]  VoWifi
