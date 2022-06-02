@@ -10,7 +10,7 @@
 **chime** is pretty much the same as **juice**. But, let's just show the list of supported devices
 - POCO M3 `citrus`
 - Redmi 9T/9 Power/Note 9 4G `lime`
-- Redmi 8T NFC `lemon`
+- Redmi 9T NFC `lemon`
 - Redmi 9T Brazil `pomelo`
 
 ## Special credits
